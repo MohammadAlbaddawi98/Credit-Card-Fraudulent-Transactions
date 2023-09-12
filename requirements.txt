@@ -1,0 +1,10 @@
+tensorflow
+pandas
+numpy
+scikit-learn
+nltk 
+seaborn 
+xgboost
+catboost
+lightgbm
+imblearn
